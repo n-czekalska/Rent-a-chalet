@@ -1,0 +1,48 @@
+C:\Users\Natalia\source\repos\Presentation\Bussines\bin\Debug\Bussines.exe
+C:\Users\Natalia\source\repos\Presentation\Bussines\bin\Debug\Bussines.pdb
+C:\Users\Natalia\source\repos\Presentation\Bussines\obj\Debug\Bussines.csprojResolveAssemblyReference.cache
+C:\Users\Natalia\source\repos\Presentation\Bussines\obj\Debug\App.g.cs
+C:\Users\Natalia\source\repos\Presentation\Bussines\obj\Debug\Bussines_MarkupCompile.cache
+C:\Users\Natalia\source\repos\Presentation\Bussines\obj\Debug\Bussines.Properties.Resources.resources
+C:\Users\Natalia\source\repos\Presentation\Bussines\obj\Debug\Bussines.csproj.GenerateResource.Cache
+C:\Users\Natalia\source\repos\Presentation\Bussines\obj\Debug\Bussines.csproj.CoreCompileInputs.cache
+C:\Users\Natalia\source\repos\Presentation\Bussines\obj\Debug\Bussines.exe
+C:\Users\Natalia\source\repos\Presentation\Bussines\obj\Debug\Bussines.pdb
+D:\Uni\OOSD\coursework2\opcja2\Bussines\bin\Debug\Bussines.exe
+D:\Uni\OOSD\coursework2\opcja2\Bussines\bin\Debug\Bussines.pdb
+D:\Uni\OOSD\coursework2\opcja2\Bussines\obj\Debug\App.g.cs
+D:\Uni\OOSD\coursework2\opcja2\Bussines\obj\Debug\Bussines_MarkupCompile.cache
+D:\Uni\OOSD\coursework2\opcja2\Bussines\obj\Debug\Bussines.Properties.Resources.resources
+D:\Uni\OOSD\coursework2\opcja2\Bussines\obj\Debug\Bussines.csproj.GenerateResource.Cache
+D:\Uni\OOSD\coursework2\opcja2\Bussines\obj\Debug\Bussines.csproj.CoreCompileInputs.cache
+D:\Uni\OOSD\coursework2\opcja2\Bussines\obj\Debug\Bussines.exe
+D:\Uni\OOSD\coursework2\opcja2\Bussines\obj\Debug\Bussines.pdb
+D:\Uni\OOSD\coursework2\opcja2 - Copy\Bussines\bin\Debug\Bussines.exe
+D:\Uni\OOSD\coursework2\opcja2 - Copy\Bussines\bin\Debug\Bussines.pdb
+D:\Uni\OOSD\coursework2\opcja2 - Copy\Bussines\obj\Debug\Bussines.csprojResolveAssemblyReference.cache
+D:\Uni\OOSD\coursework2\opcja2 - Copy\Bussines\obj\Debug\App.g.cs
+D:\Uni\OOSD\coursework2\opcja2 - Copy\Bussines\obj\Debug\Bussines_MarkupCompile.cache
+D:\Uni\OOSD\coursework2\opcja2 - Copy\Bussines\obj\Debug\Bussines.Properties.Resources.resources
+D:\Uni\OOSD\coursework2\opcja2 - Copy\Bussines\obj\Debug\Bussines.csproj.GenerateResource.Cache
+D:\Uni\OOSD\coursework2\opcja2 - Copy\Bussines\obj\Debug\Bussines.csproj.CoreCompileInputs.cache
+D:\Uni\OOSD\coursework2\opcja2 - Copy\Bussines\obj\Debug\Bussines.exe
+D:\Uni\OOSD\coursework2\opcja2 - Copy\Bussines\obj\Debug\Bussines.pdb
+D:\Uni\OOSD\coursework2\Assessment2\Bussines\bin\Debug\Bussines.exe
+D:\Uni\OOSD\coursework2\Assessment2\Bussines\bin\Debug\Bussines.pdb
+D:\Uni\OOSD\coursework2\Assessment2\Bussines\obj\Debug\App.g.cs
+D:\Uni\OOSD\coursework2\Assessment2\Bussines\obj\Debug\Bussines_MarkupCompile.cache
+D:\Uni\OOSD\coursework2\Assessment2\Bussines\obj\Debug\Bussines.Properties.Resources.resources
+D:\Uni\OOSD\coursework2\Assessment2\Bussines\obj\Debug\Bussines.csproj.GenerateResource.Cache
+D:\Uni\OOSD\coursework2\Assessment2\Bussines\obj\Debug\Bussines.csproj.CoreCompileInputs.cache
+D:\Uni\OOSD\coursework2\Assessment2\Bussines\obj\Debug\Bussines.exe
+D:\Uni\OOSD\coursework2\Assessment2\Bussines\obj\Debug\Bussines.pdb
+D:\Uni\OOSD\coursework2\Assessment2 - Copy\Bussines\bin\Debug\Bussines.exe
+D:\Uni\OOSD\coursework2\Assessment2 - Copy\Bussines\bin\Debug\Bussines.pdb
+D:\Uni\OOSD\coursework2\Assessment2 - Copy\Bussines\obj\Debug\App.g.cs
+D:\Uni\OOSD\coursework2\Assessment2 - Copy\Bussines\obj\Debug\Bussines_MarkupCompile.cache
+D:\Uni\OOSD\coursework2\Assessment2 - Copy\Bussines\obj\Debug\Bussines.Properties.Resources.resources
+D:\Uni\OOSD\coursework2\Assessment2 - Copy\Bussines\obj\Debug\Bussines.csproj.GenerateResource.Cache
+D:\Uni\OOSD\coursework2\Assessment2 - Copy\Bussines\obj\Debug\Bussines.csproj.CoreCompileInputs.cache
+D:\Uni\OOSD\coursework2\Assessment2 - Copy\Bussines\obj\Debug\Bussines.exe
+D:\Uni\OOSD\coursework2\Assessment2 - Copy\Bussines\obj\Debug\Bussines.pdb
+D:\Uni\OOSD\coursework2\Assessment2 - Copy\Bussines\obj\Debug\Bussines.csprojResolveAssemblyReference.cache

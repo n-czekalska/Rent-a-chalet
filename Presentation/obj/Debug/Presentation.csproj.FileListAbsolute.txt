@@ -1,0 +1,148 @@
+C:\Users\Natalia\source\repos\Presentation\Presentation\bin\Debug\Presentation.exe
+C:\Users\Natalia\source\repos\Presentation\Presentation\bin\Debug\Presentation.pdb
+C:\Users\Natalia\source\repos\Presentation\Presentation\bin\Debug\Data.exe
+C:\Users\Natalia\source\repos\Presentation\Presentation\bin\Debug\Data.pdb
+C:\Users\Natalia\source\repos\Presentation\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+C:\Users\Natalia\source\repos\Presentation\Presentation\obj\Debug\MainWindow.g.cs
+C:\Users\Natalia\source\repos\Presentation\Presentation\obj\Debug\App.g.cs
+C:\Users\Natalia\source\repos\Presentation\Presentation\obj\Debug\Presentation_MarkupCompile.cache
+C:\Users\Natalia\source\repos\Presentation\Presentation\obj\Debug\Presentation_MarkupCompile.lref
+C:\Users\Natalia\source\repos\Presentation\Presentation\obj\Debug\MainWindow.baml
+C:\Users\Natalia\source\repos\Presentation\Presentation\obj\Debug\Presentation.g.resources
+C:\Users\Natalia\source\repos\Presentation\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\Natalia\source\repos\Presentation\Presentation\obj\Debug\Presentation.csproj.GenerateResource.Cache
+C:\Users\Natalia\source\repos\Presentation\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Natalia\source\repos\Presentation\Presentation\obj\Debug\Presentation.exe
+C:\Users\Natalia\source\repos\Presentation\Presentation\obj\Debug\Presentation.pdb
+C:\Users\Natalia\source\repos\Presentation\Presentation\bin\Debug\Bussines.exe
+C:\Users\Natalia\source\repos\Presentation\Presentation\bin\Debug\Bussines.pdb
+D:\Uni\OOSD\coursework2\opcja2\Presentation\bin\Debug\Presentation.exe
+D:\Uni\OOSD\coursework2\opcja2\Presentation\bin\Debug\Presentation.pdb
+D:\Uni\OOSD\coursework2\opcja2\Presentation\bin\Debug\Bussines.exe
+D:\Uni\OOSD\coursework2\opcja2\Presentation\bin\Debug\Data.exe
+D:\Uni\OOSD\coursework2\opcja2\Presentation\bin\Debug\Bussines.pdb
+D:\Uni\OOSD\coursework2\opcja2\Presentation\bin\Debug\Data.pdb
+D:\Uni\OOSD\coursework2\opcja2\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+D:\Uni\OOSD\coursework2\opcja2\Presentation\obj\Debug\MainWindow.g.cs
+D:\Uni\OOSD\coursework2\opcja2\Presentation\obj\Debug\App.g.cs
+D:\Uni\OOSD\coursework2\opcja2\Presentation\obj\Debug\Presentation_MarkupCompile.cache
+D:\Uni\OOSD\coursework2\opcja2\Presentation\obj\Debug\Presentation_MarkupCompile.lref
+D:\Uni\OOSD\coursework2\opcja2\Presentation\obj\Debug\MainWindow.baml
+D:\Uni\OOSD\coursework2\opcja2\Presentation\obj\Debug\Presentation.g.resources
+D:\Uni\OOSD\coursework2\opcja2\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+D:\Uni\OOSD\coursework2\opcja2\Presentation\obj\Debug\Presentation.csproj.GenerateResource.Cache
+D:\Uni\OOSD\coursework2\opcja2\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+D:\Uni\OOSD\coursework2\opcja2\Presentation\obj\Debug\Presentation.exe
+D:\Uni\OOSD\coursework2\opcja2\Presentation\obj\Debug\Presentation.pdb
+D:\Uni\OOSD\coursework2\opcja2 - Copy\Presentation\bin\Debug\Presentation.exe
+D:\Uni\OOSD\coursework2\opcja2 - Copy\Presentation\bin\Debug\Presentation.pdb
+D:\Uni\OOSD\coursework2\opcja2 - Copy\Presentation\bin\Debug\Bussines.exe
+D:\Uni\OOSD\coursework2\opcja2 - Copy\Presentation\bin\Debug\Data.exe
+D:\Uni\OOSD\coursework2\opcja2 - Copy\Presentation\bin\Debug\Bussines.pdb
+D:\Uni\OOSD\coursework2\opcja2 - Copy\Presentation\bin\Debug\Data.pdb
+D:\Uni\OOSD\coursework2\opcja2 - Copy\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+D:\Uni\OOSD\coursework2\opcja2 - Copy\Presentation\obj\Debug\MainWindow.g.cs
+D:\Uni\OOSD\coursework2\opcja2 - Copy\Presentation\obj\Debug\App.g.cs
+D:\Uni\OOSD\coursework2\opcja2 - Copy\Presentation\obj\Debug\Presentation_MarkupCompile.cache
+D:\Uni\OOSD\coursework2\opcja2 - Copy\Presentation\obj\Debug\Presentation_MarkupCompile.lref
+D:\Uni\OOSD\coursework2\opcja2 - Copy\Presentation\obj\Debug\MainWindow.baml
+D:\Uni\OOSD\coursework2\opcja2 - Copy\Presentation\obj\Debug\Presentation.g.resources
+D:\Uni\OOSD\coursework2\opcja2 - Copy\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+D:\Uni\OOSD\coursework2\opcja2 - Copy\Presentation\obj\Debug\Presentation.csproj.GenerateResource.Cache
+D:\Uni\OOSD\coursework2\opcja2 - Copy\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+D:\Uni\OOSD\coursework2\opcja2 - Copy\Presentation\obj\Debug\Presentation.exe
+D:\Uni\OOSD\coursework2\opcja2 - Copy\Presentation\obj\Debug\Presentation.pdb
+D:\Uni\OOSD\coursework2\Assessment2\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+D:\Uni\OOSD\coursework2\Assessment2\Presentation\obj\Debug\AddNewBooking.g.cs
+D:\Uni\OOSD\coursework2\Assessment2\Presentation\obj\Debug\AddNewCustomer.g.cs
+D:\Uni\OOSD\coursework2\Assessment2\Presentation\obj\Debug\DisplayInvoice.g.cs
+D:\Uni\OOSD\coursework2\Assessment2\Presentation\obj\Debug\MainWindow.g.cs
+D:\Uni\OOSD\coursework2\Assessment2\Presentation\obj\Debug\App.g.cs
+D:\Uni\OOSD\coursework2\Assessment2\Presentation\obj\Debug\Presentation_MarkupCompile.cache
+D:\Uni\OOSD\coursework2\Assessment2\Presentation\obj\Debug\Presentation_MarkupCompile.lref
+D:\Uni\OOSD\coursework2\Assessment2\Presentation\bin\Debug\Presentation.exe
+D:\Uni\OOSD\coursework2\Assessment2\Presentation\bin\Debug\Presentation.pdb
+D:\Uni\OOSD\coursework2\Assessment2\Presentation\bin\Debug\Bussines.exe
+D:\Uni\OOSD\coursework2\Assessment2\Presentation\bin\Debug\Bussines.pdb
+D:\Uni\OOSD\coursework2\Assessment2\Presentation\obj\Debug\AddNewBooking.baml
+D:\Uni\OOSD\coursework2\Assessment2\Presentation\obj\Debug\AddNewCustomer.baml
+D:\Uni\OOSD\coursework2\Assessment2\Presentation\obj\Debug\DisplayInvoice.baml
+D:\Uni\OOSD\coursework2\Assessment2\Presentation\obj\Debug\MainWindow.baml
+D:\Uni\OOSD\coursework2\Assessment2\Presentation\obj\Debug\Presentation.g.resources
+D:\Uni\OOSD\coursework2\Assessment2\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+D:\Uni\OOSD\coursework2\Assessment2\Presentation\obj\Debug\Presentation.csproj.GenerateResource.Cache
+D:\Uni\OOSD\coursework2\Assessment2\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+D:\Uni\OOSD\coursework2\Assessment2\Presentation\obj\Debug\Presentation.exe
+D:\Uni\OOSD\coursework2\Assessment2\Presentation\obj\Debug\Presentation.pdb
+D:\Uni\OOSD\coursework2\Assessment2 - Copy\Presentation\bin\Debug\Presentation.exe
+D:\Uni\OOSD\coursework2\Assessment2 - Copy\Presentation\bin\Debug\Presentation.pdb
+D:\Uni\OOSD\coursework2\Assessment2 - Copy\Presentation\bin\Debug\Bussines.exe
+D:\Uni\OOSD\coursework2\Assessment2 - Copy\Presentation\bin\Debug\Bussines.pdb
+D:\Uni\OOSD\coursework2\Assessment2 - Copy\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+D:\Uni\OOSD\coursework2\Assessment2 - Copy\Presentation\obj\Debug\AddNewBooking.g.cs
+D:\Uni\OOSD\coursework2\Assessment2 - Copy\Presentation\obj\Debug\AddNewCustomer.g.cs
+D:\Uni\OOSD\coursework2\Assessment2 - Copy\Presentation\obj\Debug\DisplayInvoice.g.cs
+D:\Uni\OOSD\coursework2\Assessment2 - Copy\Presentation\obj\Debug\MainWindow.g.cs
+D:\Uni\OOSD\coursework2\Assessment2 - Copy\Presentation\obj\Debug\App.g.cs
+D:\Uni\OOSD\coursework2\Assessment2 - Copy\Presentation\obj\Debug\Presentation_MarkupCompile.cache
+D:\Uni\OOSD\coursework2\Assessment2 - Copy\Presentation\obj\Debug\Presentation_MarkupCompile.lref
+D:\Uni\OOSD\coursework2\Assessment2 - Copy\Presentation\obj\Debug\AddNewBooking.baml
+D:\Uni\OOSD\coursework2\Assessment2 - Copy\Presentation\obj\Debug\AddNewCustomer.baml
+D:\Uni\OOSD\coursework2\Assessment2 - Copy\Presentation\obj\Debug\DisplayInvoice.baml
+D:\Uni\OOSD\coursework2\Assessment2 - Copy\Presentation\obj\Debug\MainWindow.baml
+D:\Uni\OOSD\coursework2\Assessment2 - Copy\Presentation\obj\Debug\Presentation.g.resources
+D:\Uni\OOSD\coursework2\Assessment2 - Copy\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+D:\Uni\OOSD\coursework2\Assessment2 - Copy\Presentation\obj\Debug\Presentation.csproj.GenerateResource.Cache
+D:\Uni\OOSD\coursework2\Assessment2 - Copy\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+D:\Uni\OOSD\coursework2\Assessment2 - Copy\Presentation\obj\Debug\Presentation.exe
+D:\Uni\OOSD\coursework2\Assessment2 - Copy\Presentation\obj\Debug\Presentation.pdb
+D:\Uni\OOSD\coursework2\Assessment2 - Copy\Presentation\bin\Debug\Data.exe
+D:\Uni\OOSD\coursework2\Assessment2 - Copy\Presentation\bin\Debug\Data.pdb
+D:\Uni\OOSD\Assessment2\Assessment2 - Copy\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+D:\Uni\OOSD\Assessment2\Assessment2 - Copy\Presentation\obj\Debug\AddNewBooking.g.cs
+D:\Uni\OOSD\Assessment2\Assessment2 - Copy\Presentation\obj\Debug\AddNewCustomer.g.cs
+D:\Uni\OOSD\Assessment2\Assessment2 - Copy\Presentation\obj\Debug\DisplayInvoice.g.cs
+D:\Uni\OOSD\Assessment2\Assessment2 - Copy\Presentation\obj\Debug\App.g.cs
+D:\Uni\OOSD\Assessment2\Assessment2 - Copy\Presentation\obj\Debug\Presentation_MarkupCompile.cache
+D:\Uni\OOSD\Assessment2\Assessment2 - Copy\Presentation\obj\Debug\Presentation_MarkupCompile.lref
+D:\Uni\OOSD\Assessment2\Assessment2 - Copy\Presentation\obj\Debug\MainWindow.g.cs
+D:\Uni\OOSD\Assessment2\Assessment2 - Copy\Presentation\bin\Debug\Presentation.exe
+D:\Uni\OOSD\Assessment2\Assessment2 - Copy\Presentation\bin\Debug\Presentation.pdb
+D:\Uni\OOSD\Assessment2\Assessment2 - Copy\Presentation\bin\Debug\Bussines.exe
+D:\Uni\OOSD\Assessment2\Assessment2 - Copy\Presentation\bin\Debug\Data.exe
+D:\Uni\OOSD\Assessment2\Assessment2 - Copy\Presentation\bin\Debug\Bussines.pdb
+D:\Uni\OOSD\Assessment2\Assessment2 - Copy\Presentation\bin\Debug\Data.pdb
+D:\Uni\OOSD\Assessment2\Assessment2 - Copy\Presentation\obj\Debug\AddNewBooking.baml
+D:\Uni\OOSD\Assessment2\Assessment2 - Copy\Presentation\obj\Debug\AddNewCustomer.baml
+D:\Uni\OOSD\Assessment2\Assessment2 - Copy\Presentation\obj\Debug\DisplayInvoice.baml
+D:\Uni\OOSD\Assessment2\Assessment2 - Copy\Presentation\obj\Debug\MainWindow.baml
+D:\Uni\OOSD\Assessment2\Assessment2 - Copy\Presentation\obj\Debug\Presentation.g.resources
+D:\Uni\OOSD\Assessment2\Assessment2 - Copy\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+D:\Uni\OOSD\Assessment2\Assessment2 - Copy\Presentation\obj\Debug\Presentation.csproj.GenerateResource.Cache
+D:\Uni\OOSD\Assessment2\Assessment2 - Copy\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+D:\Uni\OOSD\Assessment2\Assessment2 - Copy\Presentation\obj\Debug\Presentation.exe
+D:\Uni\OOSD\Assessment2\Assessment2 - Copy\Presentation\obj\Debug\Presentation.pdb
+D:\Uni\OOSD\Assessment2\Assessment2 - 40286736\Presentation\bin\Debug\Presentation.exe
+D:\Uni\OOSD\Assessment2\Assessment2 - 40286736\Presentation\bin\Debug\Presentation.pdb
+D:\Uni\OOSD\Assessment2\Assessment2 - 40286736\Presentation\bin\Debug\Bussines.exe
+D:\Uni\OOSD\Assessment2\Assessment2 - 40286736\Presentation\bin\Debug\Data.exe
+D:\Uni\OOSD\Assessment2\Assessment2 - 40286736\Presentation\bin\Debug\Bussines.pdb
+D:\Uni\OOSD\Assessment2\Assessment2 - 40286736\Presentation\bin\Debug\Data.pdb
+D:\Uni\OOSD\Assessment2\Assessment2 - 40286736\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+D:\Uni\OOSD\Assessment2\Assessment2 - 40286736\Presentation\obj\Debug\AddNewBooking.g.cs
+D:\Uni\OOSD\Assessment2\Assessment2 - 40286736\Presentation\obj\Debug\AddNewCustomer.g.cs
+D:\Uni\OOSD\Assessment2\Assessment2 - 40286736\Presentation\obj\Debug\DisplayInvoice.g.cs
+D:\Uni\OOSD\Assessment2\Assessment2 - 40286736\Presentation\obj\Debug\MainWindow.g.cs
+D:\Uni\OOSD\Assessment2\Assessment2 - 40286736\Presentation\obj\Debug\App.g.cs
+D:\Uni\OOSD\Assessment2\Assessment2 - 40286736\Presentation\obj\Debug\Presentation_MarkupCompile.cache
+D:\Uni\OOSD\Assessment2\Assessment2 - 40286736\Presentation\obj\Debug\Presentation_MarkupCompile.lref
+D:\Uni\OOSD\Assessment2\Assessment2 - 40286736\Presentation\obj\Debug\AddNewBooking.baml
+D:\Uni\OOSD\Assessment2\Assessment2 - 40286736\Presentation\obj\Debug\AddNewCustomer.baml
+D:\Uni\OOSD\Assessment2\Assessment2 - 40286736\Presentation\obj\Debug\DisplayInvoice.baml
+D:\Uni\OOSD\Assessment2\Assessment2 - 40286736\Presentation\obj\Debug\MainWindow.baml
+D:\Uni\OOSD\Assessment2\Assessment2 - 40286736\Presentation\obj\Debug\Presentation.g.resources
+D:\Uni\OOSD\Assessment2\Assessment2 - 40286736\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+D:\Uni\OOSD\Assessment2\Assessment2 - 40286736\Presentation\obj\Debug\Presentation.csproj.GenerateResource.Cache
+D:\Uni\OOSD\Assessment2\Assessment2 - 40286736\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+D:\Uni\OOSD\Assessment2\Assessment2 - 40286736\Presentation\obj\Debug\Presentation.exe
+D:\Uni\OOSD\Assessment2\Assessment2 - 40286736\Presentation\obj\Debug\Presentation.pdb

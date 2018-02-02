@@ -1,0 +1,82 @@
+C:\Users\Natalia\source\repos\Presentation\Data\bin\Debug\Data.exe
+C:\Users\Natalia\source\repos\Presentation\Data\bin\Debug\Data.pdb
+C:\Users\Natalia\source\repos\Presentation\Data\obj\Debug\App.g.cs
+C:\Users\Natalia\source\repos\Presentation\Data\obj\Debug\Data_MarkupCompile.cache
+C:\Users\Natalia\source\repos\Presentation\Data\obj\Debug\Data.Properties.Resources.resources
+C:\Users\Natalia\source\repos\Presentation\Data\obj\Debug\Data.csproj.GenerateResource.Cache
+C:\Users\Natalia\source\repos\Presentation\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Natalia\source\repos\Presentation\Data\obj\Debug\Data.exe
+C:\Users\Natalia\source\repos\Presentation\Data\obj\Debug\Data.pdb
+C:\Users\Natalia\source\repos\Presentation\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Natalia\source\repos\Presentation\Data\bin\Debug\Bussines.exe
+C:\Users\Natalia\source\repos\Presentation\Data\bin\Debug\Bussines.pdb
+D:\Uni\OOSD\coursework2\opcja2\Data\bin\Debug\Data.exe
+D:\Uni\OOSD\coursework2\opcja2\Data\bin\Debug\Data.pdb
+D:\Uni\OOSD\coursework2\opcja2\Data\bin\Debug\Bussines.exe
+D:\Uni\OOSD\coursework2\opcja2\Data\bin\Debug\Bussines.pdb
+D:\Uni\OOSD\coursework2\opcja2\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+D:\Uni\OOSD\coursework2\opcja2\Data\obj\Debug\App.g.cs
+D:\Uni\OOSD\coursework2\opcja2\Data\obj\Debug\Data_MarkupCompile.cache
+D:\Uni\OOSD\coursework2\opcja2\Data\obj\Debug\Data.Properties.Resources.resources
+D:\Uni\OOSD\coursework2\opcja2\Data\obj\Debug\Data.csproj.GenerateResource.Cache
+D:\Uni\OOSD\coursework2\opcja2\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+D:\Uni\OOSD\coursework2\opcja2\Data\obj\Debug\Data.exe
+D:\Uni\OOSD\coursework2\opcja2\Data\obj\Debug\Data.pdb
+D:\Uni\OOSD\coursework2\opcja2 - Copy\Data\bin\Debug\Data.exe
+D:\Uni\OOSD\coursework2\opcja2 - Copy\Data\bin\Debug\Data.pdb
+D:\Uni\OOSD\coursework2\opcja2 - Copy\Data\bin\Debug\Bussines.exe
+D:\Uni\OOSD\coursework2\opcja2 - Copy\Data\bin\Debug\Bussines.pdb
+D:\Uni\OOSD\coursework2\opcja2 - Copy\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+D:\Uni\OOSD\coursework2\opcja2 - Copy\Data\obj\Debug\App.g.cs
+D:\Uni\OOSD\coursework2\opcja2 - Copy\Data\obj\Debug\Data_MarkupCompile.cache
+D:\Uni\OOSD\coursework2\opcja2 - Copy\Data\obj\Debug\Data.Properties.Resources.resources
+D:\Uni\OOSD\coursework2\opcja2 - Copy\Data\obj\Debug\Data.csproj.GenerateResource.Cache
+D:\Uni\OOSD\coursework2\opcja2 - Copy\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+D:\Uni\OOSD\coursework2\opcja2 - Copy\Data\obj\Debug\Data.exe
+D:\Uni\OOSD\coursework2\opcja2 - Copy\Data\obj\Debug\Data.pdb
+D:\Uni\OOSD\coursework2\Assessment2\Data\bin\Debug\Data.exe
+D:\Uni\OOSD\coursework2\Assessment2\Data\bin\Debug\Data.pdb
+D:\Uni\OOSD\coursework2\Assessment2\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+D:\Uni\OOSD\coursework2\Assessment2\Data\obj\Debug\App.g.cs
+D:\Uni\OOSD\coursework2\Assessment2\Data\obj\Debug\Data_MarkupCompile.cache
+D:\Uni\OOSD\coursework2\Assessment2\Data\obj\Debug\Data.Properties.Resources.resources
+D:\Uni\OOSD\coursework2\Assessment2\Data\obj\Debug\Data.csproj.GenerateResource.Cache
+D:\Uni\OOSD\coursework2\Assessment2\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+D:\Uni\OOSD\coursework2\Assessment2\Data\obj\Debug\Data.exe
+D:\Uni\OOSD\coursework2\Assessment2\Data\obj\Debug\Data.pdb
+D:\Uni\OOSD\coursework2\Assessment2 - Copy\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+D:\Uni\OOSD\coursework2\Assessment2 - Copy\Data\obj\Debug\App.g.cs
+D:\Uni\OOSD\coursework2\Assessment2 - Copy\Data\obj\Debug\Data_MarkupCompile.cache
+D:\Uni\OOSD\coursework2\Assessment2 - Copy\Data\obj\Debug\Data.Properties.Resources.resources
+D:\Uni\OOSD\coursework2\Assessment2 - Copy\Data\obj\Debug\Data.csproj.GenerateResource.Cache
+D:\Uni\OOSD\coursework2\Assessment2 - Copy\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+D:\Uni\OOSD\coursework2\Assessment2 - Copy\Data\obj\Debug\Data.exe
+D:\Uni\OOSD\coursework2\Assessment2 - Copy\Data\obj\Debug\Data.pdb
+D:\Uni\OOSD\coursework2\Assessment2 - Copy\Data\bin\Debug\Data.exe
+D:\Uni\OOSD\coursework2\Assessment2 - Copy\Data\bin\Debug\Data.pdb
+D:\Uni\OOSD\coursework2\Assessment2 - Copy\Data\bin\Debug\Bussines.exe
+D:\Uni\OOSD\coursework2\Assessment2 - Copy\Data\bin\Debug\Bussines.pdb
+D:\Uni\OOSD\Assessment2\Assessment2 - Copy\Data\bin\Debug\Data.exe
+D:\Uni\OOSD\Assessment2\Assessment2 - Copy\Data\bin\Debug\Data.pdb
+D:\Uni\OOSD\Assessment2\Assessment2 - Copy\Data\bin\Debug\Bussines.exe
+D:\Uni\OOSD\Assessment2\Assessment2 - Copy\Data\bin\Debug\Bussines.pdb
+D:\Uni\OOSD\Assessment2\Assessment2 - Copy\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+D:\Uni\OOSD\Assessment2\Assessment2 - Copy\Data\obj\Debug\App.g.cs
+D:\Uni\OOSD\Assessment2\Assessment2 - Copy\Data\obj\Debug\Data_MarkupCompile.cache
+D:\Uni\OOSD\Assessment2\Assessment2 - Copy\Data\obj\Debug\Data.Properties.Resources.resources
+D:\Uni\OOSD\Assessment2\Assessment2 - Copy\Data\obj\Debug\Data.csproj.GenerateResource.Cache
+D:\Uni\OOSD\Assessment2\Assessment2 - Copy\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+D:\Uni\OOSD\Assessment2\Assessment2 - Copy\Data\obj\Debug\Data.exe
+D:\Uni\OOSD\Assessment2\Assessment2 - Copy\Data\obj\Debug\Data.pdb
+D:\Uni\OOSD\Assessment2\Assessment2 - 40286736\Data\bin\Debug\Data.exe
+D:\Uni\OOSD\Assessment2\Assessment2 - 40286736\Data\bin\Debug\Data.pdb
+D:\Uni\OOSD\Assessment2\Assessment2 - 40286736\Data\bin\Debug\Bussines.exe
+D:\Uni\OOSD\Assessment2\Assessment2 - 40286736\Data\bin\Debug\Bussines.pdb
+D:\Uni\OOSD\Assessment2\Assessment2 - 40286736\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+D:\Uni\OOSD\Assessment2\Assessment2 - 40286736\Data\obj\Debug\App.g.cs
+D:\Uni\OOSD\Assessment2\Assessment2 - 40286736\Data\obj\Debug\Data_MarkupCompile.cache
+D:\Uni\OOSD\Assessment2\Assessment2 - 40286736\Data\obj\Debug\Data.Properties.Resources.resources
+D:\Uni\OOSD\Assessment2\Assessment2 - 40286736\Data\obj\Debug\Data.csproj.GenerateResource.Cache
+D:\Uni\OOSD\Assessment2\Assessment2 - 40286736\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+D:\Uni\OOSD\Assessment2\Assessment2 - 40286736\Data\obj\Debug\Data.exe
+D:\Uni\OOSD\Assessment2\Assessment2 - 40286736\Data\obj\Debug\Data.pdb
